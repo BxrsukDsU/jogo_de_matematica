@@ -26,8 +26,8 @@ body h2 {
   padding: 10px;
   border-radius: 10px;
   width: 100%;
-  max-width: 400px;
-  min-height: 100px;
+  max-width: 800px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
